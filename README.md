@@ -20,3 +20,19 @@ Perguntas iniciais:
   - Tendencia Brasil
     - Potencial de crescimento no curto / medio prazo, baseado em mercados analogos
        e serie temporal.
+
+Próxima fase:
+  - Mercados escolhidos:
+    - Apostas
+    - Gaming
+    - e-Learning
+  - Perguntas:
+    - Volume
+    - Perfil do usuário
+      1. Perfil de consumo (quantas vezes compra, quanto, como)
+      2. Meios de pagamento
+    - Problemas tech:
+      1. Pesquisar palavras-chave das dores
+  - Concorrentes:
+    - Se possível, pesquisar o meio de pagamento utilizado pelas empresas dos
+      ramos.
