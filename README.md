@@ -36,3 +36,4 @@ Próxima fase:
   - Concorrentes:
     - Se possível, pesquisar o meio de pagamento utilizado pelas empresas dos
       ramos.
+    - Estruturar dados por meio de pagamento x numero de empresas x ramos
