@@ -1,4 +1,4 @@
 .python-version
-data/*
-notebooks/.ipynb_checkpoints
+data/
+.ipynb_checkpoints/
 pdfs/
