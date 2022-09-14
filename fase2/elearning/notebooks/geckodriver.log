@@ -1,0 +1,1713 @@
+1663178562701	geckodriver	INFO	Listening on 127.0.0.1:37949
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663178563445	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "50595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexZLXpS"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Gtk-Message: 15:02:43.602: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:02:43.603: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663178699405	geckodriver	INFO	Listening on 127.0.0.1:41381
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663178700123	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "33591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5MPEtl"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Gtk-Message: 15:05:00.316: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:05:00.317: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663178764340	geckodriver	INFO	Listening on 127.0.0.1:43117
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663178765023	mozrunner::runner	INFO	Running command: "/snap/bin/firefox" "--marionette" "--remote-debugging-port" "41589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYyOCYq"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+Gtk-Message: 15:06:05.194: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:06:05.195: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663179023515	geckodriver	INFO	Listening on 127.0.0.1:54359
+1663179024396	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "60375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5nqZh3"
+Gtk-Message: 15:10:24.490: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:10:24.491: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663179025044	Marionette	INFO	Marionette enabled
+1663179025083	Marionette	INFO	Listening on port 34537
+WebDriver BiDi listening on ws://localhost:60375
+Read port: 34537
+1663179025175	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5nqZh3/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60375/devtools/browser/148a909f-7af3-4367-8aa8-25e6dce02dfe
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663179039555	Marionette	INFO	Stopped listening on port 34537
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663179118771	geckodriver	INFO	Listening on 127.0.0.1:40173
+1663179119645	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "37159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQ6rqiu"
+Gtk-Message: 15:11:59.740: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:11:59.741: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663179120334	Marionette	INFO	Marionette enabled
+1663179120337	Marionette	INFO	Listening on port 46455
+WebDriver BiDi listening on ws://localhost:37159
+Read port: 46455
+1663179120445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQ6rqiu/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37159/devtools/browser/71ded41b-aea5-447a-b559-3ca1f2e959d5
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663179122499	Marionette	INFO	Stopped listening on port 46455
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/TerminatorTelemetry.jsm, line 60: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663179134124	geckodriver	INFO	Listening on 127.0.0.1:60801
+1663179135009	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDqXzls"
+Gtk-Message: 15:12:15.086: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:12:15.087: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663179135616	Marionette	INFO	Marionette enabled
+1663179135618	Marionette	INFO	Listening on port 44771
+WebDriver BiDi listening on ws://localhost:56215
+Read port: 44771
+1663179135770	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDqXzls/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56215/devtools/browser/92a9293f-fe7a-4f6d-b44e-e8c70459c063
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663179163662	Marionette	INFO	Stopped listening on port 44771
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663179175686	geckodriver	INFO	Listening on 127.0.0.1:54221
+1663179176552	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "33779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqYJUqX"
+Gtk-Message: 15:12:56.619: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:12:56.620: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663179177168	Marionette	INFO	Marionette enabled
+1663179177171	Marionette	INFO	Listening on port 41813
+WebDriver BiDi listening on ws://localhost:33779
+Read port: 41813
+1663179177292	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqYJUqX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33779/devtools/browser/0be47374-b109-4343-8ebb-71abdccc74be
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663179224535	Marionette	INFO	Stopped listening on port 41813
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663179348677	geckodriver	INFO	Listening on 127.0.0.1:56043
+1663179349536	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "40861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileB2u8gA"
+Gtk-Message: 15:15:49.610: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:15:49.611: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663179350160	Marionette	INFO	Marionette enabled
+1663179350163	Marionette	INFO	Listening on port 37329
+WebDriver BiDi listening on ws://localhost:40861
+Read port: 37329
+1663179350275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileB2u8gA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40861/devtools/browser/6d03d036-1487-4aa1-bf68-889877aaf753
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663179411582	geckodriver	INFO	Listening on 127.0.0.1:40671
+1663179412436	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35649" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOrfz5d"
+Gtk-Message: 15:16:52.519: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:16:52.520: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663179413039	Marionette	INFO	Marionette enabled
+1663179413042	Marionette	INFO	Listening on port 45077
+WebDriver BiDi listening on ws://localhost:35649
+Read port: 45077
+1663179413180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOrfz5d/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35649/devtools/browser/5c1acf71-15c6-467e-affe-3a9360d1a313
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663179416715	Marionette	INFO	Stopped listening on port 37329
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+1663179436197	Marionette	INFO	Stopped listening on port 45077
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663179513991	geckodriver	INFO	Listening on 127.0.0.1:49023
+1663179514868	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "49807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCe2njZ"
+Gtk-Message: 15:18:34.943: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:18:34.944: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663179515454	Marionette	INFO	Marionette enabled
+1663179515457	Marionette	INFO	Listening on port 43839
+WebDriver BiDi listening on ws://localhost:49807
+Read port: 43839
+1663179515571	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCe2njZ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49807/devtools/browser/0b8bfc80-e52c-4d45-be88-53eb6dceed91
+1663179520191	Marionette	INFO	Stopped listening on port 43839
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileCe2njZ/protections.sqlite
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663179603543	geckodriver	INFO	Listening on 127.0.0.1:45277
+1663179604456	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "56821" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGfybiQ"
+Gtk-Message: 15:20:04.529: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:20:04.530: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663179605069	Marionette	INFO	Marionette enabled
+1663179605071	Marionette	INFO	Listening on port 38245
+WebDriver BiDi listening on ws://localhost:56821
+Read port: 38245
+1663179605274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGfybiQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56821/devtools/browser/85bc6154-3532-41ee-938b-d3a26fe885d7
+1663179609945	Marionette	INFO	Stopped listening on port 38245
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 593: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 593: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663179645162	geckodriver	INFO	Listening on 127.0.0.1:53275
+1663179646053	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "43733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMJhwo7"
+Gtk-Message: 15:20:46.122: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:20:46.123: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663179646685	Marionette	INFO	Marionette enabled
+1663179646687	Marionette	INFO	Listening on port 44729
+WebDriver BiDi listening on ws://localhost:43733
+Read port: 44729
+1663179646805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMJhwo7/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:43733/devtools/browser/780cd89e-b21b-40d3-b627-9de31f68288d
+1663179657492	Marionette	INFO	Stopped listening on port 44729
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663179722540	geckodriver	INFO	Listening on 127.0.0.1:50619
+1663179723433	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "32789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCw8Nvp"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663179723716	Marionette	INFO	Marionette enabled
+1663179723719	Marionette	INFO	Listening on port 35323
+WebDriver BiDi listening on ws://localhost:32789
+Read port: 35323
+1663179723799	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCw8Nvp/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:32789/devtools/browser/b9dd47bc-8f53-41af-81ea-1091e6d2ac64
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1663179734507	Marionette	INFO	Stopped listening on port 35323
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663179797380	geckodriver	INFO	Listening on 127.0.0.1:41651
+1663179798248	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "38503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevAsttm"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663179798495	Marionette	INFO	Marionette enabled
+1663179798498	Marionette	INFO	Listening on port 45593
+WebDriver BiDi listening on ws://localhost:38503
+Read port: 45593
+1663179798587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevAsttm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38503/devtools/browser/295a1b4d-2c19-4c55-afe1-379399994bd7
+1663179807547	Marionette	INFO	Stopped listening on port 45593
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663180161227	geckodriver	INFO	Listening on 127.0.0.1:59637
+1663180162056	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "48631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenROpQT"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663180162335	Marionette	INFO	Marionette enabled
+1663180162338	Marionette	INFO	Listening on port 45283
+WebDriver BiDi listening on ws://localhost:48631
+Read port: 45283
+1663180162439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenROpQT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48631/devtools/browser/1f74f5de-fc43-4abb-8b6f-dfff47f1006c
+1663180168051	Marionette	INFO	Stopped listening on port 45283
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663180184259	geckodriver	INFO	Listening on 127.0.0.1:53185
+1663180185157	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "51063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileN62qn8"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663180185455	Marionette	INFO	Marionette enabled
+1663180185458	Marionette	INFO	Listening on port 43455
+WebDriver BiDi listening on ws://localhost:51063
+Read port: 43455
+1663180185701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileN62qn8/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51063/devtools/browser/af6bc10b-7885-41ab-aa04-35235ac9bcda
+1663180195845	Marionette	INFO	Stopped listening on port 43455
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663180233967	geckodriver	INFO	Listening on 127.0.0.1:59975
+1663180234864	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileS3ITsk"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663180235190	Marionette	INFO	Marionette enabled
+1663180235194	Marionette	INFO	Listening on port 32945
+WebDriver BiDi listening on ws://localhost:57667
+Read port: 32945
+1663180235418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileS3ITsk/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57667/devtools/browser/049470dd-f57e-4fd4-b8e4-c25e8cc4c93a
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1663180246406	Marionette	INFO	Stopped listening on port 32945
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663180270504	geckodriver	INFO	Listening on 127.0.0.1:34289
+1663180271396	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "50909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHTTG6T"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663180271685	Marionette	INFO	Marionette enabled
+1663180271688	Marionette	INFO	Listening on port 38383
+WebDriver BiDi listening on ws://localhost:50909
+Read port: 38383
+1663180271787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHTTG6T/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50909/devtools/browser/59beb340-f315-4b38-a0e9-ed58077b2aa9
+1663180286176	Marionette	INFO	Stopped listening on port 38383
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663180361682	geckodriver	INFO	Listening on 127.0.0.1:53791
+1663180362569	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesasEF1"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663180362845	Marionette	INFO	Marionette enabled
+1663180362849	Marionette	INFO	Listening on port 46863
+WebDriver BiDi listening on ws://localhost:57121
+Read port: 46863
+1663180362935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesasEF1/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57121/devtools/browser/a0fb8465-285c-4038-a8c2-23aa0ec7e0af
+1663180366953	Marionette	INFO	Stopped listening on port 46863
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilesasEF1/protections.sqlite
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663180376406	geckodriver	INFO	Listening on 127.0.0.1:37235
+1663180377284	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "38897" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledGxCjz"
+Gtk-Message: 15:32:57.372: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:32:57.373: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663180377980	Marionette	INFO	Marionette enabled
+1663180377984	Marionette	INFO	Listening on port 41733
+Read port: 41733
+WebDriver BiDi listening on ws://localhost:38897
+1663180378114	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledGxCjz/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38897/devtools/browser/69329f3c-a826-4a67-a595-bc0ba4ae6edf
+1663180382466	Marionette	INFO	Stopped listening on port 41733
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofiledGxCjz/protections.sqlite
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663180423305	geckodriver	INFO	Listening on 127.0.0.1:37101
+1663180424161	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "45191" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezoULxM"
+Gtk-Message: 15:33:44.249: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:33:44.250: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663180424841	Marionette	INFO	Marionette enabled
+1663180424844	Marionette	INFO	Listening on port 34159
+WebDriver BiDi listening on ws://localhost:45191
+Read port: 34159
+1663180424969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezoULxM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45191/devtools/browser/a05a7427-abba-499d-a896-6b14cfe84eaa
+1663180444934	Marionette	INFO	Stopped listening on port 34159
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663180515609	geckodriver	INFO	Listening on 127.0.0.1:51501
+1663180516497	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "55585" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJgMNmy"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663180516802	Marionette	INFO	Marionette enabled
+1663180516806	Marionette	INFO	Listening on port 46783
+WebDriver BiDi listening on ws://localhost:55585
+Read port: 46783
+1663180517043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJgMNmy/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55585/devtools/browser/fcae3dc1-c94d-43f2-a45e-b53bc9aa1b7d
+1663180537938	Marionette	INFO	Stopped listening on port 46783
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663180564052	geckodriver	INFO	Listening on 127.0.0.1:33401
+1663180564948	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "55733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFLjvBP"
+Gtk-Message: 15:36:05.057: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:36:05.059: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663180565721	Marionette	INFO	Marionette enabled
+1663180565725	Marionette	INFO	Listening on port 41789
+WebDriver BiDi listening on ws://localhost:55733
+Read port: 41789
+1663180565838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFLjvBP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55733/devtools/browser/2551102d-b43b-4be0-8e1e-c9b7d8713032
+1663180584995	Marionette	INFO	Stopped listening on port 41789
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663180624634	geckodriver	INFO	Listening on 127.0.0.1:35091
+1663180625561	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "35621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2skm1p"
+Gtk-Message: 15:37:05.654: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:37:05.655: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663180626274	Marionette	INFO	Marionette enabled
+1663180626277	Marionette	INFO	Listening on port 38547
+WebDriver BiDi listening on ws://localhost:35621
+Read port: 38547
+1663180626472	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2skm1p/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35621/devtools/browser/d99d05dd-5675-4207-8147-4d1edf327d83
+1663180638699	Marionette	INFO	Stopped listening on port 38547
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663180720268	geckodriver	INFO	Listening on 127.0.0.1:34935
+1663180721144	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "58767" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiTLcVS"
+Gtk-Message: 15:38:41.235: Failed to load module "canberra-gtk-module"
+Gtk-Message: 15:38:41.236: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663180721875	Marionette	INFO	Marionette enabled
+1663180721878	Marionette	INFO	Listening on port 46315
+WebDriver BiDi listening on ws://localhost:58767
+Read port: 46315
+1663180722026	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiTLcVS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58767/devtools/browser/2de0dd5d-8013-43d6-8642-c80bea0a757a
+1663180743514	Marionette	INFO	Stopped listening on port 46315
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663181026431	geckodriver	INFO	Listening on 127.0.0.1:32851
+1663181027285	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "59895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAQD7GR"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663181027565	Marionette	INFO	Marionette enabled
+1663181027568	Marionette	INFO	Listening on port 32849
+WebDriver BiDi listening on ws://localhost:59895
+Read port: 32849
+1663181027664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAQD7GR/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59895/devtools/browser/2f2c83c5-9072-4dc2-9b81-c2d0747af02c
+1663181043006	Marionette	INFO	Stopped listening on port 32849
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663181053475	geckodriver	INFO	Listening on 127.0.0.1:58609
+1663181054342	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "44679" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIvROgq"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663181054634	Marionette	INFO	Marionette enabled
+1663181054637	Marionette	INFO	Listening on port 46033
+Read port: 46033
+WebDriver BiDi listening on ws://localhost:44679
+1663181054736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIvROgq/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44679/devtools/browser/62d81eb8-b6c3-4d26-9375-c70c8c4a8316
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663181079311	geckodriver	INFO	Listening on 127.0.0.1:59745
+1663181080176	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "35111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWUKukl"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663181080455	Marionette	INFO	Marionette enabled
+1663181080459	Marionette	INFO	Listening on port 41547
+WebDriver BiDi listening on ws://localhost:35111
+Read port: 41547
+1663181080568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWUKukl/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35111/devtools/browser/f49b5139-9311-4a1d-98aa-547d9cdcf5ab
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663181092070	Marionette	INFO	Stopped listening on port 41547
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileWUKukl/protections.sqlite
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663181242320	geckodriver	INFO	Listening on 127.0.0.1:45705
+1663181243212	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "37813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2yr3bc"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663181243503	Marionette	INFO	Marionette enabled
+1663181243507	Marionette	INFO	Listening on port 37287
+WebDriver BiDi listening on ws://localhost:37813
+Read port: 37287
+1663181243601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2yr3bc/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37813/devtools/browser/3a51ca12-e2e1-4d42-891c-dbab743c6385
+1663181252400	Marionette	INFO	Stopped listening on port 37287
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663181278989	geckodriver	INFO	Listening on 127.0.0.1:43487
+1663181279861	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "40685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile49Czaf"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663181280177	Marionette	INFO	Marionette enabled
+1663181280181	Marionette	INFO	Listening on port 45511
+WebDriver BiDi listening on ws://localhost:40685
+Read port: 45511
+1663181280386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile49Czaf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40685/devtools/browser/e83abdfe-5e12-45f7-b296-0e126272c098
+1663181295342	Marionette	INFO	Stopped listening on port 45511
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663181402706	geckodriver	INFO	Listening on 127.0.0.1:54129
+1663181403574	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "54551" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6vsnYa"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663181403893	Marionette	INFO	Marionette enabled
+1663181403897	Marionette	INFO	Listening on port 46853
+WebDriver BiDi listening on ws://localhost:54551
+Read port: 46853
+1663181404117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6vsnYa/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54551/devtools/browser/14863ed6-8fca-4a9d-966a-b1e3dca258ab
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663181421885	geckodriver	INFO	Listening on 127.0.0.1:51429
+1663181422765	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57259" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZ02Slh"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663181423050	Marionette	INFO	Marionette enabled
+1663181423054	Marionette	INFO	Listening on port 33329
+WebDriver BiDi listening on ws://localhost:57259
+Read port: 33329
+1663181423147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZ02Slh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57259/devtools/browser/cda0f5c4-1172-4b79-90ea-9d7e5ebbe1da
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663181438543	Marionette	INFO	Stopped listening on port 33329
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663181459624	geckodriver	INFO	Listening on 127.0.0.1:51107
+1663181460533	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "32913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYKBCnX"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663181460850	Marionette	INFO	Marionette enabled
+1663181460854	Marionette	INFO	Listening on port 43023
+WebDriver BiDi listening on ws://localhost:32913
+Read port: 43023
+1663181461074	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYKBCnX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:32913/devtools/browser/6190bb8b-0e59-4b1f-8f5e-a2740b8d81ca
+1663181466177	Marionette	INFO	Stopped listening on port 43023
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663181502696	geckodriver	INFO	Listening on 127.0.0.1:59529
+1663181503564	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "39207" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOcxT0z"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663181503850	Marionette	INFO	Marionette enabled
+1663181503854	Marionette	INFO	Listening on port 35555
+WebDriver BiDi listening on ws://localhost:39207
+Read port: 35555
+1663181503946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOcxT0z/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39207/devtools/browser/b7ff4e71-0f0a-4b15-b1e3-f150cc84c3f0
+1663181520536	Marionette	INFO	Stopped listening on port 35555
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663181623590	geckodriver	INFO	Listening on 127.0.0.1:49189
+1663181624461	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "35105" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0d7OJH"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663181624751	Marionette	INFO	Marionette enabled
+1663181624755	Marionette	INFO	Listening on port 42763
+Read port: 42763
+WebDriver BiDi listening on ws://localhost:35105
+1663181624854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0d7OJH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35105/devtools/browser/cb299328-9037-499b-a68b-ad636b1aafcc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.similarweb.com."
+1663181643297	Marionette	INFO	Stopped listening on port 42763
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663181707343	geckodriver	INFO	Listening on 127.0.0.1:37859
+1663181708216	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "37003" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGYsmTp"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663181708521	Marionette	INFO	Marionette enabled
+1663181708525	Marionette	INFO	Listening on port 46355
+WebDriver BiDi listening on ws://localhost:37003
+Read port: 46355
+1663181708784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGYsmTp/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37003/devtools/browser/7057b43d-2ce2-416a-b405-aa48e4a6d9e3
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1663181734423	Marionette	INFO	Stopped listening on port 46355
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663181741404	geckodriver	INFO	Listening on 127.0.0.1:33289
+1663181742264	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57449" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAtGF90"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663181742572	Marionette	INFO	Marionette enabled
+1663181742575	Marionette	INFO	Listening on port 44589
+WebDriver BiDi listening on ws://localhost:57449
+Read port: 44589
+1663181742806	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAtGF90/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57449/devtools/browser/4ead7613-c7e8-4f58-82ff-387201ec5130
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1663181758422	Marionette	INFO	Stopped listening on port 44589
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663181792886	geckodriver	INFO	Listening on 127.0.0.1:55655
+1663181793778	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "34595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepAu8e5"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663181794106	Marionette	INFO	Marionette enabled
+1663181794111	Marionette	INFO	Listening on port 36159
+WebDriver BiDi listening on ws://localhost:34595
+Read port: 36159
+1663181794317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepAu8e5/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34595/devtools/browser/a3b8e984-1490-40de-9a72-853ce7782479
+1663181804024	Marionette	INFO	Stopped listening on port 36159
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663181810443	geckodriver	INFO	Listening on 127.0.0.1:44309
+1663181811312	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "47605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHhWUzo"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663181811633	Marionette	INFO	Marionette enabled
+1663181811637	Marionette	INFO	Listening on port 40199
+WebDriver BiDi listening on ws://localhost:47605
+Read port: 40199
+1663181811836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHhWUzo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47605/devtools/browser/db33c8de-8d71-47d6-bd7d-296fa53f6adb
+1663181823556	Marionette	INFO	Stopped listening on port 40199
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663181851115	geckodriver	INFO	Listening on 127.0.0.1:59301
+1663181851992	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "45547" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLzRRZz"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663181852326	Marionette	INFO	Marionette enabled
+1663181852330	Marionette	INFO	Listening on port 42429
+WebDriver BiDi listening on ws://localhost:45547
+Read port: 42429
+1663181852442	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLzRRZz/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45547/devtools/browser/4ab38c88-7fdf-4997-b956-f436137998b8
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663181992512	geckodriver	INFO	Listening on 127.0.0.1:45295
+1663181993382	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "60525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilet5PQGu"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663181993636	Marionette	INFO	Marionette enabled
+1663181993639	Marionette	INFO	Listening on port 37159
+WebDriver BiDi listening on ws://localhost:60525
+Read port: 37159
+1663181993717	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilet5PQGu/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60525/devtools/browser/b1698ffe-afb2-4ab9-9f19-caf7f977e8b6
+1663182013706	Marionette	INFO	Stopped listening on port 37159
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663182016323	geckodriver	INFO	Listening on 127.0.0.1:60143
+1663182017196	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "49895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileThoq1y"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663182017448	Marionette	INFO	Marionette enabled
+1663182017451	Marionette	INFO	Listening on port 33415
+WebDriver BiDi listening on ws://localhost:49895
+Read port: 33415
+1663182017541	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileThoq1y/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49895/devtools/browser/c8c33f2c-6a96-482d-83cb-ed3f1ca33dee
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1663182033949	Marionette	INFO	Stopped listening on port 33415
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663182125962	geckodriver	INFO	Listening on 127.0.0.1:44445
+1663182126829	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "39393" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegIoFGA"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663182127082	Marionette	INFO	Marionette enabled
+1663182127085	Marionette	INFO	Listening on port 34063
+WebDriver BiDi listening on ws://localhost:39393
+Read port: 34063
+1663182127168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegIoFGA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39393/devtools/browser/77357500-67e2-497d-b6f2-d30a20091e65
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663182275253	geckodriver	INFO	Listening on 127.0.0.1:60635
+1663182276109	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "52553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledX1MU2"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663182276396	Marionette	INFO	Marionette enabled
+1663182276398	Marionette	INFO	Listening on port 46041
+WebDriver BiDi listening on ws://localhost:52553
+Read port: 46041
+1663182276488	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledX1MU2/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52553/devtools/browser/684516ec-38ec-44c0-a3ee-cd94925fa267
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663182406831	geckodriver	INFO	Listening on 127.0.0.1:46455
+1663182407693	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "45539" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilek8VDFd"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663182407995	Marionette	INFO	Marionette enabled
+1663182407999	Marionette	INFO	Listening on port 39209
+WebDriver BiDi listening on ws://localhost:45539
+Read port: 39209
+1663182408254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilek8VDFd/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45539/devtools/browser/4ee2e205-db96-4bb2-89df-dca7626034e8
+1663182426460	Marionette	INFO	Stopped listening on port 39209
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663182458710	geckodriver	INFO	Listening on 127.0.0.1:54427
+1663182459594	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "54607" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewWaPGL"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663182459862	Marionette	INFO	Marionette enabled
+1663182459865	Marionette	INFO	Listening on port 43617
+WebDriver BiDi listening on ws://localhost:54607
+Read port: 43617
+1663182459949	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewWaPGL/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54607/devtools/browser/d3348f8e-88fe-47b3-a54a-e8e41866bf94
+1663182476560	Marionette	INFO	Stopped listening on port 43617
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663182534436	geckodriver	INFO	Listening on 127.0.0.1:48413
+1663182535304	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57781" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDO7dMo"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663182535591	Marionette	INFO	Marionette enabled
+1663182535594	Marionette	INFO	Listening on port 42665
+WebDriver BiDi listening on ws://localhost:57781
+Read port: 42665
+1663182535681	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDO7dMo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57781/devtools/browser/6cb8d8da-6855-458b-8d79-3d9238753d7e
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1663182547272	Marionette	INFO	Stopped listening on port 42665
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663182584748	geckodriver	INFO	Listening on 127.0.0.1:37785
+1663182585616	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "48725" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileBr5ECD"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663182585915	Marionette	INFO	Marionette enabled
+1663182585918	Marionette	INFO	Listening on port 36275
+WebDriver BiDi listening on ws://localhost:48725
+Read port: 36275
+1663182586185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBr5ECD/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48725/devtools/browser/8bb2102d-1f30-41ec-a94a-910f37fc97e5
+1663182603171	Marionette	INFO	Stopped listening on port 36275
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663182610059	geckodriver	INFO	Listening on 127.0.0.1:58619
+1663182610909	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "40589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilej49pvp"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663182611197	Marionette	INFO	Marionette enabled
+1663182611200	Marionette	INFO	Listening on port 39167
+WebDriver BiDi listening on ws://localhost:40589
+Read port: 39167
+1663182611289	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej49pvp/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40589/devtools/browser/6be5ee4b-a68d-43b5-857a-4343d8f7c9fe
+1663182631718	Marionette	INFO	Stopped listening on port 39167
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663182717701	geckodriver	INFO	Listening on 127.0.0.1:44505
+1663182718581	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "59109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezKyzUT"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663182718890	Marionette	INFO	Marionette enabled
+1663182718893	Marionette	INFO	Listening on port 34397
+WebDriver BiDi listening on ws://localhost:59109
+Read port: 34397
+1663182719134	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezKyzUT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59109/devtools/browser/9e487043-be47-444b-af1b-c26bafec1f70
+1663182733650	Marionette	INFO	Stopped listening on port 34397
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663182815560	geckodriver	INFO	Listening on 127.0.0.1:53769
+1663182816441	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "47015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCoukla"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663182816756	Marionette	INFO	Marionette enabled
+1663182816761	Marionette	INFO	Listening on port 40239
+WebDriver BiDi listening on ws://localhost:47015
+Read port: 40239
+1663182816946	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCoukla/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47015/devtools/browser/aac42210-40d2-49b7-9f76-4b9d94b282eb
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663182884356	Marionette	INFO	Stopped listening on port 40239
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663182886953	geckodriver	INFO	Listening on 127.0.0.1:53815
+1663182887829	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "50145" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePoqG4V"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663182888127	Marionette	INFO	Marionette enabled
+1663182888131	Marionette	INFO	Listening on port 44289
+WebDriver BiDi listening on ws://localhost:50145
+Read port: 44289
+1663182888375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePoqG4V/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50145/devtools/browser/b032732b-682c-4c24-a60f-d4234a36bdfb
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663182971180	geckodriver	INFO	Listening on 127.0.0.1:33039
+1663182972077	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "50525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile10Hx57"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663182972386	Marionette	INFO	Marionette enabled
+1663182972390	Marionette	INFO	Listening on port 44005
+WebDriver BiDi listening on ws://localhost:50525
+Read port: 44005
+1663182972623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile10Hx57/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50525/devtools/browser/fc2f90f1-5fe6-41a3-b98d-460dc5d68870
+1663182984756	Marionette	INFO	Stopped listening on port 44005
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663183093180	geckodriver	INFO	Listening on 127.0.0.1:40259
+1663183094052	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "43913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4EEzeO"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663183094358	Marionette	INFO	Marionette enabled
+1663183094361	Marionette	INFO	Listening on port 36737
+WebDriver BiDi listening on ws://localhost:43913
+Read port: 36737
+1663183094629	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4EEzeO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:43913/devtools/browser/bae2ca27-b396-44ed-813e-a439d730ebc6
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1663183113742	Marionette	INFO	Stopped listening on port 36737
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663183232362	geckodriver	INFO	Listening on 127.0.0.1:59585
+1663183233232	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "48337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilea0rvxY"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663183233544	Marionette	INFO	Marionette enabled
+1663183233547	Marionette	INFO	Listening on port 41865
+WebDriver BiDi listening on ws://localhost:48337
+Read port: 41865
+1663183233787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea0rvxY/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48337/devtools/browser/7b01a56e-b0da-4279-907a-4787ae44f8df
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663183241210	geckodriver	INFO	Listening on 127.0.0.1:41223
+1663183242081	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "36211" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezukh3x"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663183242419	Marionette	INFO	Marionette enabled
+1663183242424	Marionette	INFO	Listening on port 42107
+WebDriver BiDi listening on ws://localhost:36211
+Read port: 42107
+1663183242523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezukh3x/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36211/devtools/browser/a9ab147e-629e-4bdd-beba-bd530ba0a5bc
+1663183251806	Marionette	INFO	Stopped listening on port 42107
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663183311435	geckodriver	INFO	Listening on 127.0.0.1:37729
+1663183312293	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "40421" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0UIYTU"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663183312603	Marionette	INFO	Marionette enabled
+1663183312606	Marionette	INFO	Listening on port 36357
+WebDriver BiDi listening on ws://localhost:40421
+Read port: 36357
+1663183312846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0UIYTU/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40421/devtools/browser/071271f3-b732-4712-af55-7e5e26493ca1
+1663183330828	Marionette	INFO	Stopped listening on port 36357
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663183387490	geckodriver	INFO	Listening on 127.0.0.1:45651
+1663183388300	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "35879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSUP4Ct"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663183388586	Marionette	INFO	Marionette enabled
+1663183388588	Marionette	INFO	Listening on port 42899
+WebDriver BiDi listening on ws://localhost:35879
+Read port: 42899
+1663183388671	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSUP4Ct/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35879/devtools/browser/31dec6ec-198c-4c8c-a95f-0ae085c7b972
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663183566910	geckodriver	INFO	Listening on 127.0.0.1:38041
+1663183567789	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "60237" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileedSKrE"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663183568069	Marionette	INFO	Marionette enabled
+1663183568072	Marionette	INFO	Listening on port 42593
+WebDriver BiDi listening on ws://localhost:60237
+Read port: 42593
+1663183568157	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileedSKrE/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60237/devtools/browser/6601cec1-528a-43cc-97dc-f233e4b763aa
+1663183587023	Marionette	INFO	Stopped listening on port 42593
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663183615366	geckodriver	INFO	Listening on 127.0.0.1:51959
+1663183616216	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "50205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexiuC0m"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663183616534	Marionette	INFO	Marionette enabled
+1663183616538	Marionette	INFO	Listening on port 41181
+WebDriver BiDi listening on ws://localhost:50205
+Read port: 41181
+1663183616732	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexiuC0m/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50205/devtools/browser/39ed688d-16e9-4b80-83f5-05768da68c8f
+1663183628786	Marionette	INFO	Stopped listening on port 41181
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663183681078	geckodriver	INFO	Listening on 127.0.0.1:44393
+1663183681960	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57007" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejKgrPL"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663183682267	Marionette	INFO	Marionette enabled
+1663183682270	Marionette	INFO	Listening on port 32855
+WebDriver BiDi listening on ws://localhost:57007
+Read port: 32855
+1663183682524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejKgrPL/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57007/devtools/browser/e544dfd7-fdfb-494f-9ee4-26d31645d5d9
+1663183706865	Marionette	INFO	Stopped listening on port 32855
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663183754190	geckodriver	INFO	Listening on 127.0.0.1:60005
+1663183755062	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "38259" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileblm3ZU"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663183755366	Marionette	INFO	Marionette enabled
+1663183755370	Marionette	INFO	Listening on port 39323
+WebDriver BiDi listening on ws://localhost:38259
+Read port: 39323
+1663183755607	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileblm3ZU/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:38259/devtools/browser/b03e4ae9-da15-41ff-a3bd-20c3fa5fcf52
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1663183783785	Marionette	INFO	Stopped listening on port 39323
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663183857546	geckodriver	INFO	Listening on 127.0.0.1:48911
+1663183858436	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "49305" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYWrZ8k"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663183858757	Marionette	INFO	Marionette enabled
+1663183858761	Marionette	INFO	Listening on port 43479
+WebDriver BiDi listening on ws://localhost:49305
+Read port: 43479
+1663183858954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYWrZ8k/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49305/devtools/browser/135597cd-34c1-434b-bbda-5e2b082b3e69
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1663183876715	Marionette	INFO	Stopped listening on port 43479
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663184383995	geckodriver	INFO	Listening on 127.0.0.1:50099
+1663184384892	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "51203" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTdzfPY"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663184385171	Marionette	INFO	Marionette enabled
+1663184385173	Marionette	INFO	Listening on port 46103
+WebDriver BiDi listening on ws://localhost:51203
+Read port: 46103
+1663184385258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTdzfPY/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51203/devtools/browser/fc065de9-de50-484a-b554-b48e89a30508
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1663184404309	Marionette	INFO	Stopped listening on port 46103
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663184482722	geckodriver	INFO	Listening on 127.0.0.1:49549
+1663184483485	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "59313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJdeFA2"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663184483795	Marionette	INFO	Marionette enabled
+1663184483800	Marionette	INFO	Listening on port 36085
+WebDriver BiDi listening on ws://localhost:59313
+Read port: 36085
+1663184484036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJdeFA2/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59313/devtools/browser/057ede71-d57d-4580-b494-8db7975404be
+1663184500104	Marionette	INFO	Stopped listening on port 36085
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663184551334	geckodriver	INFO	Listening on 127.0.0.1:37533
+1663184552221	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "42381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5Mdm0I"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663184552561	Marionette	INFO	Marionette enabled
+1663184552566	Marionette	INFO	Listening on port 41495
+WebDriver BiDi listening on ws://localhost:42381
+Read port: 41495
+1663184552665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5Mdm0I/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42381/devtools/browser/0bb848b0-0647-483f-8c77-22d23ccfe8ef
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663184626170	Marionette	INFO	Stopped listening on port 41495
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663184716128	geckodriver	INFO	Listening on 127.0.0.1:38663
+1663184717000	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "35683" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2FVf5K"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663184717308	Marionette	INFO	Marionette enabled
+1663184717311	Marionette	INFO	Listening on port 36155
+WebDriver BiDi listening on ws://localhost:35683
+Read port: 36155
+1663184717558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2FVf5K/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35683/devtools/browser/a85e25b7-f3d5-40cc-ba31-6c21efa216f1
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663184756436	geckodriver	INFO	Listening on 127.0.0.1:58491
+1663184757301	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "33925" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewCXcyh"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663184757614	Marionette	INFO	Marionette enabled
+1663184757618	Marionette	INFO	Listening on port 35323
+WebDriver BiDi listening on ws://localhost:33925
+Read port: 35323
+1663184757855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewCXcyh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33925/devtools/browser/1c4a02e1-1b97-4e11-a31a-bc1e502d3f46
+1663184768229	Marionette	INFO	Stopped listening on port 35323
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663184792328	geckodriver	INFO	Listening on 127.0.0.1:59405
+1663184793200	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "46735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTUoXEj"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663184793508	Marionette	INFO	Marionette enabled
+1663184793511	Marionette	INFO	Listening on port 37479
+WebDriver BiDi listening on ws://localhost:46735
+Read port: 37479
+1663184793743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTUoXEj/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46735/devtools/browser/d4f5ffd1-50ba-46c8-9944-9a366a84084b
+1663184805498	Marionette	INFO	Stopped listening on port 37479
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663185064284	geckodriver	INFO	Listening on 127.0.0.1:60397
+1663185065185	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "59223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8nVr5X"
+Gtk-Message: 16:51:05.308: Failed to load module "canberra-gtk-module"
+Gtk-Message: 16:51:05.318: Failed to load module "canberra-gtk-module"
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1663185065946	Marionette	INFO	Marionette enabled
+1663185065948	Marionette	INFO	Listening on port 38359
+WebDriver BiDi listening on ws://localhost:59223
+Read port: 38359
+1663185066077	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8nVr5X/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59223/devtools/browser/d3ed14a4-6a34-4cfb-ba2a-845d8d4e785d
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663185134477	Marionette	INFO	Stopped listening on port 38359
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663185513348	geckodriver	INFO	Listening on 127.0.0.1:42045
+1663185514233	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "50913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegKHiQO"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663185514571	Marionette	INFO	Marionette enabled
+1663185514576	Marionette	INFO	Listening on port 33989
+WebDriver BiDi listening on ws://localhost:50913
+Read port: 33989
+1663185514677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegKHiQO/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50913/devtools/browser/21033f75-9576-40dd-9584-17dbc7c20406
+1663185534425	Marionette	INFO	Stopped listening on port 33989
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663185544418	geckodriver	INFO	Listening on 127.0.0.1:47607
+1663185545309	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "36997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebYQWhP"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663185545654	Marionette	INFO	Marionette enabled
+1663185545658	Marionette	INFO	Listening on port 44131
+WebDriver BiDi listening on ws://localhost:36997
+Read port: 44131
+1663185545750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebYQWhP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36997/devtools/browser/89975f3b-7e9a-49ef-8d58-126cf8914242
+1663185561921	Marionette	INFO	Stopped listening on port 44131
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663185592855	geckodriver	INFO	Listening on 127.0.0.1:48525
+1663185593720	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57253" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilej7sBSI"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663185594000	Marionette	INFO	Marionette enabled
+1663185594004	Marionette	INFO	Listening on port 46255
+WebDriver BiDi listening on ws://localhost:57253
+Read port: 46255
+1663185594090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej7sBSI/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57253/devtools/browser/87badc8f-b884-47d6-aa5b-8ae076af5b3b
+1663185611541	Marionette	INFO	Stopped listening on port 46255
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663185680793	geckodriver	INFO	Listening on 127.0.0.1:34455
+1663185681672	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "35035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefbArJV"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663185681981	Marionette	INFO	Marionette enabled
+1663185681985	Marionette	INFO	Listening on port 38411
+WebDriver BiDi listening on ws://localhost:35035
+Read port: 38411
+1663185682246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefbArJV/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35035/devtools/browser/337a8569-c080-4489-b680-ce8f088984cc
+1663185696971	Marionette	INFO	Stopped listening on port 38411
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663185740457	geckodriver	INFO	Listening on 127.0.0.1:55111
+1663185741312	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "40157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIlXWV5"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663185741613	Marionette	INFO	Marionette enabled
+1663185741616	Marionette	INFO	Listening on port 33165
+WebDriver BiDi listening on ws://localhost:40157
+Read port: 33165
+1663185741856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIlXWV5/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40157/devtools/browser/9ef332c4-9efb-4374-8273-1c416c402d2e
+1663185754610	Marionette	INFO	Stopped listening on port 33165
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663185826917	geckodriver	INFO	Listening on 127.0.0.1:46477
+1663185827824	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "50789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9jCc6i"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663185828110	Marionette	INFO	Marionette enabled
+1663185828113	Marionette	INFO	Listening on port 42445
+WebDriver BiDi listening on ws://localhost:50789
+Read port: 42445
+1663185828194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9jCc6i/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50789/devtools/browser/0d5829d6-e67e-4eff-8a4a-f28fd715785e
+1663185845770	Marionette	INFO	Stopped listening on port 42445
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663185926442	geckodriver	INFO	Listening on 127.0.0.1:49039
+1663185927312	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "36423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileadvWQW"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663185927616	Marionette	INFO	Marionette enabled
+1663185927620	Marionette	INFO	Listening on port 42531
+WebDriver BiDi listening on ws://localhost:36423
+Read port: 42531
+1663185927873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileadvWQW/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36423/devtools/browser/eca3c5ba-10fb-4e9b-a35b-46c25787ba67
+1663185943536	Marionette	INFO	Stopped listening on port 42531
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663186281021	geckodriver	INFO	Listening on 127.0.0.1:39519
+1663186281930	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "56145" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHMwoGF"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663186282213	Marionette	INFO	Marionette enabled
+1663186282216	Marionette	INFO	Listening on port 34745
+WebDriver BiDi listening on ws://localhost:56145
+Read port: 34745
+1663186282314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHMwoGF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56145/devtools/browser/3980f3f9-70a6-4f6d-8b94-bceeeb766b97
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1663186308193	Marionette	INFO	Stopped listening on port 34745
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663186472862	geckodriver	INFO	Listening on 127.0.0.1:47323
+1663186473716	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "42337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewBcX8T"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663186474015	Marionette	INFO	Marionette enabled
+1663186474018	Marionette	INFO	Listening on port 46217
+WebDriver BiDi listening on ws://localhost:42337
+Read port: 46217
+1663186474248	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewBcX8T/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42337/devtools/browser/b0de207d-1c47-4254-abd6-363985f9ccad
+1663186493498	Marionette	INFO	Stopped listening on port 46217
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663186669131	geckodriver	INFO	Listening on 127.0.0.1:52831
+1663186670012	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "56329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJkomks"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663186670311	Marionette	INFO	Marionette enabled
+1663186670315	Marionette	INFO	Listening on port 43493
+WebDriver BiDi listening on ws://localhost:56329
+Read port: 43493
+1663186670568	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJkomks/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56329/devtools/browser/aca45a41-cd72-4190-9492-fd8ae4a43ad4
+1663186688140	Marionette	INFO	Stopped listening on port 43493
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663186705763	geckodriver	INFO	Listening on 127.0.0.1:60061
+1663186706621	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileg9aynG"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663186706946	Marionette	INFO	Marionette enabled
+1663186706950	Marionette	INFO	Listening on port 39527
+WebDriver BiDi listening on ws://localhost:57975
+Read port: 39527
+1663186707137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileg9aynG/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57975/devtools/browser/4b282782-e811-414f-81d0-4be4353440a4
+1663186723681	Marionette	INFO	Stopped listening on port 39527
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663186801100	geckodriver	INFO	Listening on 127.0.0.1:52483
+1663186801997	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "41563" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWZZekR"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663186802342	Marionette	INFO	Marionette enabled
+1663186802346	Marionette	INFO	Listening on port 46805
+WebDriver BiDi listening on ws://localhost:41563
+Read port: 46805
+1663186802449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWZZekR/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41563/devtools/browser/59e8620a-b0b3-4825-a9eb-3c7d9b389cd6
+1663186819417	Marionette	INFO	Stopped listening on port 46805
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663186957751	geckodriver	INFO	Listening on 127.0.0.1:54815
+1663186958625	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "39675" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5DSTjo"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663186958910	Marionette	INFO	Marionette enabled
+1663186958913	Marionette	INFO	Listening on port 46493
+WebDriver BiDi listening on ws://localhost:39675
+Read port: 46493
+1663186958999	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5DSTjo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39675/devtools/browser/3e2c5025-8a11-4e51-b9a6-a402a49993d0
+1663186989652	Marionette	INFO	Stopped listening on port 46493
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663186992260	geckodriver	INFO	Listening on 127.0.0.1:51005
+1663186993132	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "43183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQA34I5"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663186993412	Marionette	INFO	Marionette enabled
+1663186993415	Marionette	INFO	Listening on port 46541
+WebDriver BiDi listening on ws://localhost:43183
+Read port: 46541
+1663186993502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQA34I5/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:43183/devtools/browser/89d6658c-afa4-4e76-be0e-0dea29eaf360
+1663187020057	Marionette	INFO	Stopped listening on port 46541
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663187106657	geckodriver	INFO	Listening on 127.0.0.1:40227
+1663187107528	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57125" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileg6DlLu"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663187107846	Marionette	INFO	Marionette enabled
+1663187107849	Marionette	INFO	Listening on port 40613
+WebDriver BiDi listening on ws://localhost:57125
+Read port: 40613
+1663187108124	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileg6DlLu/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57125/devtools/browser/6c10303b-95fb-4053-983b-f8cdefe15beb
+1663187123811	Marionette	INFO	Stopped listening on port 40613
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663187235041	geckodriver	INFO	Listening on 127.0.0.1:60499
+1663187235921	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "39353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile61dbwa"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663187236212	Marionette	INFO	Marionette enabled
+1663187236215	Marionette	INFO	Listening on port 46081
+Read port: 46081
+WebDriver BiDi listening on ws://localhost:39353
+1663187236317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile61dbwa/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39353/devtools/browser/1bce2687-7c97-46cd-99a0-a31de72bb555
+1663187249278	Marionette	INFO	Stopped listening on port 46081
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663187262929	geckodriver	INFO	Listening on 127.0.0.1:38477
+1663187263805	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "48911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMRJAA9"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663187264117	Marionette	INFO	Marionette enabled
+1663187264122	Marionette	INFO	Listening on port 39613
+WebDriver BiDi listening on ws://localhost:48911
+Read port: 39613
+1663187264355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMRJAA9/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:48911/devtools/browser/66083a9b-2fdf-44b3-9a74-44ad15b8825d
+1663187283741	Marionette	INFO	Stopped listening on port 39613
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663187438603	geckodriver	INFO	Listening on 127.0.0.1:41569
+1663187439517	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "56281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUlVWjD"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663187439808	Marionette	INFO	Marionette enabled
+1663187439812	Marionette	INFO	Listening on port 45557
+Read port: 45557
+WebDriver BiDi listening on ws://localhost:56281
+1663187439900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUlVWjD/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56281/devtools/browser/ff2e7c51-6aa1-4e96-a39f-d583b535bb33
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1663187465361	Marionette	INFO	Stopped listening on port 45557
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663187481672	geckodriver	INFO	Listening on 127.0.0.1:33001
+1663187482550	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "36105" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevT7pcu"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663187482839	Marionette	INFO	Marionette enabled
+1663187482844	Marionette	INFO	Listening on port 45071
+WebDriver BiDi listening on ws://localhost:36105
+Read port: 45071
+1663187482929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevT7pcu/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36105/devtools/browser/445404d8-3de7-4042-836c-1371d044d67c
+1663187509518	Marionette	INFO	Stopped listening on port 45071
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663187512150	geckodriver	INFO	Listening on 127.0.0.1:39427
+1663187513054	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerOR9tq"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663187513329	Marionette	INFO	Marionette enabled
+1663187513333	Marionette	INFO	Listening on port 36515
+WebDriver BiDi listening on ws://localhost:57027
+Read port: 36515
+1663187513418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerOR9tq/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57027/devtools/browser/c974ad12-9e6a-4cda-b0d2-71d22604f172
+1663187523177	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187523180	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187523183	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187523189	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187523192	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187523199	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187523209	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187523212	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187523215	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187523221	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1663187538966	Marionette	INFO	Stopped listening on port 36515
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663187560739	geckodriver	INFO	Listening on 127.0.0.1:46447
+1663187561581	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "54687" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9Ich3Y"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663187561881	Marionette	INFO	Marionette enabled
+1663187561883	Marionette	INFO	Listening on port 37259
+WebDriver BiDi listening on ws://localhost:54687
+Read port: 37259
+1663187562123	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9Ich3Y/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54687/devtools/browser/02ab7fb6-8d2f-438c-a776-26b52e762358
+1663187564972	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187564978	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187564983	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187564987	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187564992	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187564998	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187565004	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187565021	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187565026	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187565031	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663187584058	geckodriver	INFO	Listening on 127.0.0.1:44883
+1663187584941	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "50917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMKks5y"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663187585279	Marionette	INFO	Marionette enabled
+1663187585283	Marionette	INFO	Listening on port 45361
+WebDriver BiDi listening on ws://localhost:50917
+Read port: 45361
+1663187585384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMKks5y/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50917/devtools/browser/848f232a-6c0c-43d5-b042-a5bb70b3c7e1
+1663187588450	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187588455	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187588460	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187588465	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187588470	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187588474	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187588478	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187588499	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187588504	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1663187588508	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript warning: https://www.similarweb.com/kZ1aIzUP/init.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663187896352	geckodriver	INFO	Listening on 127.0.0.1:36491
+1663187897236	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "43667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWezYNa"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663187897536	Marionette	INFO	Marionette enabled
+1663187897540	Marionette	INFO	Listening on port 34205
+WebDriver BiDi listening on ws://localhost:43667
+Read port: 34205
+1663187897866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWezYNa/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:43667/devtools/browser/a81edf67-2f69-4da5-92c9-b8c3b97d567c
+1663187915150	Marionette	INFO	Stopped listening on port 34205
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+1663187916305	geckodriver	INFO	Listening on 127.0.0.1:59579
+1663187917168	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "42685" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8mMYpG"
+*** You are running in headless mode.
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+1663187917449	Marionette	INFO	Marionette enabled
+1663187917451	Marionette	INFO	Listening on port 37115
+WebDriver BiDi listening on ws://localhost:42685
+Read port: 37115
+1663187917539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8mMYpG/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42685/devtools/browser/89b3694a-3242-4bb4-bbf8-f60ed9f67bd8
+1663187939836	Marionette	INFO	Stopped listening on port 37115
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2013\"  data: no]"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
