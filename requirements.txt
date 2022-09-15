@@ -6,3 +6,4 @@ seaborn
 notebook
 requests
 nltk
+selenium
