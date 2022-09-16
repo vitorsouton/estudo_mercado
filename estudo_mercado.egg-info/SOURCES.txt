@@ -1,0 +1,6 @@
+README.md
+setup.py
+estudo_mercado.egg-info/PKG-INFO
+estudo_mercado.egg-info/SOURCES.txt
+estudo_mercado.egg-info/dependency_links.txt
+estudo_mercado.egg-info/top_level.txt

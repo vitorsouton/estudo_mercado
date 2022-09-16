@@ -80,11 +80,22 @@ def get_proxies() -> list:
     return proxies
 
 
+
 def get_info(company: str, proxies_list: list) -> pd.DataFrame:
-    p = '../drivers/'
+    p = '/home/vitor/code/VSNRUBR/estudo_mercado/utils/drivers/'
 
     firefox_options = Options()
     firefox_options.add_argument('--headless')
+
+    vpns = ['Albania','Greece','Portugal','Argentina','Hong_Kong','Romania','Australia',
+            'Hungary','Serbia','Austria','Iceland','Singapore','Belgium','Indonesia','Slovakia',
+            'Bosnia_And_Herzegovina','Ireland','Slovenia','Brazil','Israel','South_Africa',
+            'Bulgaria','Italy','South_Korea','Canada','Japan','Spain','Chile','Latvia',
+            'Sweden','Costa_Rica','Lithuania','Switzerland','Croatia','Luxembourg',
+            'Taiwan','Cyprus','Malaysia','Thailand','Czech_Republic','Mexico','Turkey',
+            'Denmark','Moldova','Ukraine','Estonia','Netherlands','United_Kingdom',
+            'Finland','New_Zealand','United_States','France','North_Macedonia','Vietnam',
+            'Georgia','Norway', 'Germany', 'Poland']
 
     if proxies_list:
         proxies = proxies_list.copy()
@@ -171,10 +182,14 @@ def get_info(company: str, proxies_list: list) -> pd.DataFrame:
             i_pct = round((float(i[:-1]) / 100), 3)
             result[l] = [i_pct]
     except IndexError:
-        print('In the loop')
-        os.system('nordvpn c > /dev/null 2>&1')
+        print('In loop')
+        vpn = choice(vpns)
+        proxies = get_proxies()
+        os.system(f'nordvpn c {vpn}> /dev/null 2>&1')
+        sleep(10)
         df = get_info(company, proxies_list=proxies)
-        print('Out of loop')
+        print('Out loop')
+
         return df
 
     except Exception as e:
@@ -189,6 +204,5 @@ def get_info(company: str, proxies_list: list) -> pd.DataFrame:
     df = pd.DataFrame(result)
 
     sleep(0.5)
-    print(f'Done {company}')
 
     return df
