@@ -4,3 +4,4 @@ data/
 pdfs/
 .env
 .vscode/
+**/geckodriver.log
