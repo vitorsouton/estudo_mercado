@@ -1,18 +1,20 @@
 import os
+import re
 import string
 import requests
+import random
 
 import pandas as pd
 
 from bs4 import BeautifulSoup
 from unidecode import unidecode
 from time import sleep
-from urllib.parse import urlparse
 from random import choice
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+from fake_useragent import UserAgent
 
 
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0'}
@@ -61,68 +63,66 @@ def get_complains(company_id: str, company_name: str, n_complains: int) -> pd.Da
 
 
 def get_proxies() -> list:
-    url = 'https://free-proxy-list.net/'
 
-    res = requests.get(url).content
-    soup = BeautifulSoup(res, 'html.parser')
-    proxies = []
+    rand = random.randint(1, 100)
 
-    for r in soup.find('table', attrs={'class': 'table table-striped table-bordered'}).find_all('tr')[1:]:
-        tds = r.find_all('td')
-        try:
-            ip = tds[0].text.strip()
-            port = tds[1].text.strip()
-            host = f'{ip}:{port}'
-            proxies.append(host)
-        except IndexError:
-            continue
+    if rand % 2 == 0:
+        url = 'https://free-proxy-list.net/'
+
+        res = requests.get(url).content
+        soup = BeautifulSoup(res, 'html.parser')
+        proxies = []
+
+        for r in soup.find('table', attrs={'class': 'table table-striped table-bordered'}).find_all('tr')[1:]:
+            tds = r.find_all('td')
+            try:
+                ip = tds[0].text.strip()
+                port = tds[1].text.strip()
+                host = f'{ip}:{port}'
+                proxies.append(host)
+            except IndexError:
+                continue
+    else:
+        proxies = ['amsterdam.nl.socks.nordhold.net:1080',
+                   'atlanta.us.socks.nordhold.net:1080',
+                   'dallas.us.socks.nordhold.net:1080',
+                   'los-angeles.us.socks.nordhold.net:1080',
+                   'nl.socks.nordhold.net:1080',
+                   'se.socks.nordhold.net:1080',
+                   'stockholm.se.socks.nordhold.net:1080',
+                   'us.socks.nordhold.net:1080']
 
     return proxies
 
 
-
-def get_info(company: str, proxies_list: list) -> pd.DataFrame:
+def get_info(company: str) -> pd.DataFrame:
     p = '/home/vitor/code/VSNRUBR/estudo_mercado/utils/drivers/'
+    ua = UserAgent()
+    user_agent = ua.random
 
     firefox_options = Options()
     firefox_options.add_argument('--headless')
+    firefox_options.add_argument(f'user-agent={user_agent}')
 
-    vpns = ['Albania','Greece','Portugal','Argentina','Hong_Kong','Romania','Australia',
-            'Hungary','Serbia','Austria','Iceland','Singapore','Belgium','Indonesia','Slovakia',
-            'Bosnia_And_Herzegovina','Ireland','Slovenia','Brazil','Israel','South_Africa',
-            'Bulgaria','Italy','South_Korea','Canada','Japan','Spain','Chile','Latvia',
-            'Sweden','Costa_Rica','Lithuania','Switzerland','Croatia','Luxembourg',
-            'Taiwan','Cyprus','Malaysia','Thailand','Czech_Republic','Mexico','Turkey',
-            'Denmark','Moldova','Ukraine','Estonia','Netherlands','United_Kingdom',
-            'Finland','New_Zealand','United_States','France','North_Macedonia','Vietnam',
-            'Georgia','Norway', 'Germany', 'Poland']
+    proxies = get_proxies()
+    proxy = choice(proxies)
+    capabilities = dict(DesiredCapabilities.FIREFOX)
+    capabilities['proxy'] = {
+        'http': proxy,
+        'https': proxy,
+        'proxyType': 'MANUAL',
+        'socksProxy': proxy,
+        'socksVersion': 5,
+        'ftpProxy': proxy,
+        'noProxy': 'localhost,127.0.0.1',
+        'class': 'org.openqa.selenium.Proxy',
+        'autodetect': False
+    }
 
-    if proxies_list:
-        proxies = proxies_list.copy()
-        proxy = choice(proxies)
-
-        capabilities = dict(DesiredCapabilities.FIREFOX)
-        capabilities['proxy'] = {
-            'http': proxy,
-            'https': proxy,
-            'proxyType': 'MANUAL',
-            'socksProxy': proxy,
-            'socksVersion': 5,
-            'ftpProxy': proxy,
-            'noProxy': 'localhost,127.0.0.1',
-            'class': 'org.openqa.selenium.Proxy',
-            'autodetect': False
-        }
-
-        driver = webdriver.Firefox(
-            p, options=firefox_options, desired_capabilities=capabilities)
-
-    else:
-        driver = webdriver.Firefox(p, options=firefox_options)
-
-    sleep(2)
-
+    driver = webdriver.Firefox(p, options=firefox_options, desired_capabilities=capabilities)
     driver.get(f'https://www.similarweb.com/website/{company}/')
+
+    sleep(0.5)
 
     result = {
         'company_name': [company],
@@ -181,21 +181,14 @@ def get_info(company: str, proxies_list: list) -> pd.DataFrame:
         for i, l in zip(idades, labels):
             i_pct = round((float(i[:-1]) / 100), 3)
             result[l] = [i_pct]
+
     except IndexError:
-        print('In loop')
-        vpn = choice(vpns)
-        proxies = get_proxies()
-        os.system(f'nordvpn c {vpn}> /dev/null 2>&1')
-        sleep(10)
-        df = get_info(company, proxies_list=proxies)
-        print('Out loop')
+        raise IndexError
 
-        return df
-
-    except Exception as e:
+    except Exception:
         driver.quit()
         df = pd.DataFrame(result)
-        sleep(0.5)
+        sleep(3)
 
         return df
 
@@ -203,6 +196,6 @@ def get_info(company: str, proxies_list: list) -> pd.DataFrame:
 
     df = pd.DataFrame(result)
 
-    sleep(0.5)
+    sleep(3)
 
     return df
