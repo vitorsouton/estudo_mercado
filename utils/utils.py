@@ -63,13 +63,11 @@ def get_complains(company_id: str, company_name: str, n_complains: int) -> pd.Da
 
 
 def get_proxies() -> list:
+    url = 'https://free-proxy-list.net/'
 
-    rand = random.randint(1, 100)
+    res = requests.get(url).content
 
-    if rand % 2 == 0:
-        url = 'https://free-proxy-list.net/'
-
-        res = requests.get(url).content
+    if res.status_code == 200:
         soup = BeautifulSoup(res, 'html.parser')
         proxies = []
 
@@ -84,13 +82,13 @@ def get_proxies() -> list:
                 continue
     else:
         proxies = ['amsterdam.nl.socks.nordhold.net:1080',
-                   'atlanta.us.socks.nordhold.net:1080',
-                   'dallas.us.socks.nordhold.net:1080',
-                   'los-angeles.us.socks.nordhold.net:1080',
-                   'nl.socks.nordhold.net:1080',
-                   'se.socks.nordhold.net:1080',
-                   'stockholm.se.socks.nordhold.net:1080',
-                   'us.socks.nordhold.net:1080']
+                    'atlanta.us.socks.nordhold.net:1080',
+                    'dallas.us.socks.nordhold.net:1080',
+                    'los-angeles.us.socks.nordhold.net:1080',
+                    'nl.socks.nordhold.net:1080',
+                    'se.socks.nordhold.net:1080',
+                    'stockholm.se.socks.nordhold.net:1080',
+                    'us.socks.nordhold.net:1080']
 
     return proxies
 
@@ -122,7 +120,7 @@ def get_info(company: str) -> pd.DataFrame:
     driver = webdriver.Firefox(p, options=firefox_options, desired_capabilities=capabilities)
     driver.get(f'https://www.similarweb.com/website/{company}/')
 
-    sleep(0.5)
+    sleep(5)
 
     result = {
         'company_name': [company],
@@ -183,6 +181,7 @@ def get_info(company: str) -> pd.DataFrame:
             result[l] = [i_pct]
 
     except IndexError:
+        driver.quit()
         raise IndexError
 
     except Exception:
