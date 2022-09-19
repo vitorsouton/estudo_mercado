@@ -1,8 +1,6 @@
-import os
-import re
 import string
 import requests
-import random
+import os
 
 import pandas as pd
 
@@ -15,6 +13,7 @@ from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from fake_useragent import UserAgent
+from urllib.parse import urlparse
 
 
 HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0'}
@@ -198,3 +197,63 @@ def get_info(company: str) -> pd.DataFrame:
     sleep(3)
 
     return df
+
+
+def get_domains(csv: str) -> pd.DataFrame:
+    df = pd.read_csv(csv)
+    df = df[['Website']]
+    df['domain'] = [0] * df.shape[0]
+    df = df.dropna().reset_index()
+    df['domain'] = [urlparse(site).netloc[4:] for site in df.Website]
+
+    return df
+
+
+def run(empresas: pd.DataFrame) -> str:
+    os.system('nordvpn d')
+
+    check_df = pd.read_csv('../data/poker_info.csv', index_col=0)
+    last_comp_idx = empresas[empresas.domain ==
+                             check_df.iloc[-1].company_name].index[0]
+
+    tries = 0
+    for i in range(last_comp_idx, empresas.shape[0]):
+        if tries < 10:
+            try:
+                domain = empresas.domain[i]
+                df = pd.read_csv('../data/poker_info.csv', index_col=0)
+                new_df = pd.concat([df, get_info(domain)], ignore_index=True)
+                new_df.to_csv('../data/poker_info.csv')
+            except IndexError:
+                tries += 1
+                print(f'Erro: {tries}')
+                sleep(60)
+                continue
+
+        elif 10 <= tries < 30:
+
+            countries = ['Albania', 'Greece', 'Portugal', 'Argentina', 'Hong_Kong', 'Romania', 'Australia', 'Hungary', 'Serbia',
+                         'Austria', 'Iceland', 'Singapore', 'Belgium', 'Indonesia', 'Slovakia', 'Bosnia_And_Herzegovina', 'Ireland',
+                         'Slovenia', 'Brazil', 'Israel', 'South_Africa', 'Bulgaria', 'Italy', 'South_Korea', 'Canada', 'Japan', 'Spain',
+                         'Chile', 'Latvia', 'Sweden', 'Costa_Rica', 'Lithuania', 'Switzerland', 'Croatia', 'Luxembourg', 'Taiwan',
+                         'Cyprus', 'Malaysia', 'Thailand', 'Czech_Republic', 'Mexico', 'Turkey', 'Denmark', 'Moldova', 'Ukraine',
+                         'Estonia', 'Netherlands', 'United_Kingdom', 'Finland', 'New_Zealand', 'United_States', 'France',
+                         'North_Macedonia', 'Vietnam', 'Georgia', 'Norway', 'Germany', 'Poland']
+
+            country = choice(countries)
+            os.system(f'nordvpn c {country}> /dev/null 2>&1')
+
+            try:
+                domain = empresas.domain[i]
+                df = pd.read_csv('../data/poker_info.csv', index_col=0)
+                new_df = pd.concat([df, get_info(domain)], ignore_index=True)
+                new_df.to_csv('../data/poker_info.csv')
+            except IndexError:
+                tries += 1
+                print(f'Erro: {tries}')
+                sleep(10)
+                continue
+        else:
+            break
+
+    return 'Done'
