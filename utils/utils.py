@@ -65,10 +65,10 @@ def get_complains(company_id: str, company_name: str, n_complains: int) -> pd.Da
 def get_proxies() -> list:
     url = 'https://free-proxy-list.net/'
 
-    res = requests.get(url).content
+    res = requests.get(url)
 
     if res.status_code == 200:
-        soup = BeautifulSoup(res, 'html.parser')
+        soup = BeautifulSoup(res.content, 'html.parser')
         proxies = []
 
         for r in soup.find('table', attrs={'class': 'table table-striped table-bordered'}).find_all('tr')[1:]:
