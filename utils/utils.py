@@ -209,10 +209,10 @@ def get_domains(csv: str) -> pd.DataFrame:
     return df
 
 
-def run(empresas: pd.DataFrame) -> str:
+def run(empresas: pd.DataFrame, csv_path: str) -> str:
     os.system('nordvpn d')
 
-    check_df = pd.read_csv('../data/poker_info.csv', index_col=0)
+    check_df = pd.read_csv(csv_path, index_col=0)
     last_comp_idx = empresas[empresas.domain ==
                              check_df.iloc[-1].company_name].index[0]
 
@@ -221,9 +221,9 @@ def run(empresas: pd.DataFrame) -> str:
         if tries < 10:
             try:
                 domain = empresas.domain[i]
-                df = pd.read_csv('../data/poker_info.csv', index_col=0)
+                df = pd.read_csv(csv_path, index_col=0)
                 new_df = pd.concat([df, get_info(domain)], ignore_index=True)
-                new_df.to_csv('../data/poker_info.csv')
+                new_df.to_csv(csv_path)
             except IndexError:
                 tries += 1
                 print(f'Erro: {tries}')
@@ -245,9 +245,9 @@ def run(empresas: pd.DataFrame) -> str:
 
             try:
                 domain = empresas.domain[i]
-                df = pd.read_csv('../data/poker_info.csv', index_col=0)
+                df = pd.read_csv(csv_path, index_col=0)
                 new_df = pd.concat([df, get_info(domain)], ignore_index=True)
-                new_df.to_csv('../data/poker_info.csv')
+                new_df.to_csv(csv_path)
             except IndexError:
                 tries += 1
                 print(f'Erro: {tries}')
