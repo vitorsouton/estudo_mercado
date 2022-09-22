@@ -1,0 +1,139 @@
+-----------------------
+Campo: BAIRRO
+-----------------------
+   Descrição : Bairro
+   Domínio   : Alfanumérico
+   Tipo Dados: varchar
+   Tamanho   : 100
+
+-----------------------
+Campo: CEP
+-----------------------
+   Descrição : CEP
+   Domínio   : Numérico
+   Tipo Dados: numeric
+   Precisão  : 8
+   Scale     : 0
+
+-----------------------
+Campo: CNPJ
+-----------------------
+   Descrição : Cadastro Nacional de Pessoas Jurídicas
+   Domínio   : Alfanumérico
+   Tipo Dados: varchar
+   Tamanho   : 20
+
+-----------------------
+Campo: COMPL
+-----------------------
+   Descrição : Complemento de endereço
+   Domínio   : Alfanumérico
+   Tipo Dados: varchar
+   Tamanho   : 100
+
+-----------------------
+Campo: DDD
+-----------------------
+   Descrição : Código DDD
+   Domínio   : Numérico
+   Tipo Dados: numeric
+   Precisão  : 5
+   Scale     : 0
+
+-----------------------
+Campo: DENOM_COMERC
+-----------------------
+   Descrição : Denominação Comercial
+   Domínio   : Alfanumérico
+   Tipo Dados: varchar
+   Tamanho   : 100
+
+-----------------------
+Campo: DENOM_SOCIAL
+-----------------------
+   Descrição : Denominação Social
+   Domínio   : Alfanumérico
+   Tipo Dados: varchar
+   Tamanho   : 100
+
+-----------------------
+Campo: DT_INI_SIT
+-----------------------
+   Descrição : Data início da situação
+   Domínio   : AAAA-MM-DD
+   Tipo Dados: date
+   Tamanho   : 10
+
+-----------------------
+Campo: DT_REG
+-----------------------
+   Descrição : Data de registro
+   Domínio   : AAAA-MM-DD
+   Tipo Dados: date
+   Tamanho   : 10
+
+-----------------------
+Campo: EMAIL
+-----------------------
+   Descrição : Endereço de e-mail
+   Domínio   : Alfanumérico
+   Tipo Dados: varchar
+   Tamanho   : 100
+
+-----------------------
+Campo: LOGRADOURO
+-----------------------
+   Descrição : Logradouro
+   Domínio   : Alfanumérico
+   Tipo Dados: varchar
+   Tamanho   : 100
+
+-----------------------
+Campo: MUN
+-----------------------
+   Descrição : Nome do município
+   Domínio   : Alfanumérico
+   Tipo Dados: varchar
+   Tamanho   : 100
+
+-----------------------
+Campo: SIT
+-----------------------
+   Descrição : Situação
+   Domínio   : Alfanumérico
+   Tipo Dados: varchar
+   Tamanho   : 100
+
+-----------------------
+Campo: TEL
+-----------------------
+   Descrição : Telefone
+   Domínio   : Numérico
+   Tipo Dados: numeric
+   Precisão  : 18
+   Scale     : 0
+
+-----------------------
+Campo: TP_ENDER
+-----------------------
+   Descrição : Tipo de endereço
+   Domínio   : Alfanumérico
+   Tipo Dados: varchar
+   Tamanho   : 100
+
+-----------------------
+Campo: UF
+-----------------------
+   Descrição : Unidade da Federação
+   Domínio   : Alfanumérico
+   Tipo Dados: char
+   Tamanho   : 2
+
+-----------------------
+Campo: WEBSITE
+-----------------------
+   Descrição : Website
+   Domínio   : Alfanumérico
+   Tipo Dados: varchar
+   Tamanho   : 200
+
