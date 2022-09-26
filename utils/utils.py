@@ -93,7 +93,7 @@ def get_proxies() -> list:
 
 
 def get_info(company: str) -> pd.DataFrame:
-    p = '/home/vsn/code/VSNRUBR/estudo_mercado/estudo_mercado/utils/drivers/geckodriver'
+    p = '/home/vitor/code/VSNRUBR/estudo_mercado/utils/drivers/'
     ua = UserAgent()
     user_agent = ua.random
 
